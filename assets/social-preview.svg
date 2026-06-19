@@ -1,24 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
   <title id="title">KapsL social preview</title>
   <desc id="desc">Preview graphic for the KapsL Android launcher website.</desc>
-  <rect width="1200" height="630" fill="#f5f1ea"/>
-  <circle cx="1020" cy="120" r="180" fill="#80deea" opacity=".35"/>
-  <circle cx="155" cy="536" r="210" fill="#ffb74d" opacity=".32"/>
-  <rect x="720" y="72" width="236" height="486" rx="42" fill="#17211f"/>
-  <rect x="737" y="91" width="202" height="448" rx="30" fill="#f8faf9"/>
-  <text x="770" y="154" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700" fill="#17211f">Work KapsL</text>
-  <text x="770" y="184" font-family="Inter, Arial, sans-serif" font-size="14" fill="#67726d">4 approved apps</text>
-  <rect x="770" y="226" width="64" height="64" rx="18" fill="#5c7aea"/>
-  <rect x="852" y="226" width="64" height="64" rx="18" fill="#009688"/>
-  <rect x="770" y="312" width="64" height="64" rx="18" fill="#ff8a80"/>
-  <rect x="852" y="312" width="64" height="64" rx="18" fill="#ffb74d"/>
-  <path d="M793 260h18M802 251v18M875 260h18M884 251v18M793 346h18M802 337v18M875 346h18M884 337v18" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
-  <rect x="770" y="438" width="146" height="48" rx="24" fill="#17211f"/>
-  <text x="806" y="469" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">Focus on</text>
-  <text x="110" y="190" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="-2" fill="#17211f">KapsL</text>
-  <text x="110" y="260" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#17211f">A minimalist Android launcher</text>
-  <text x="110" y="314" font-family="Inter, Arial, sans-serif" font-size="30" fill="#42504a">that turns your home screen into</text>
-  <text x="110" y="356" font-family="Inter, Arial, sans-serif" font-size="30" fill="#42504a">intentional focus capsules.</text>
-  <rect x="110" y="424" width="204" height="52" rx="26" fill="#ff7b54"/>
-  <text x="144" y="458" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#17211f">Focus Capsules</text>
+  <rect width="1200" height="630" fill="#101c23"/>
+  <path d="M0 0h1200v236H0z" fill="#132731"/>
+  <path d="M96 120h8v328h-8z" fill="#80deea"/>
+  <rect x="708" y="64" width="250" height="502" rx="44" fill="#050a0d"/>
+  <rect x="727" y="84" width="212" height="462" rx="31" fill="#132731"/>
+  <rect x="752" y="122" width="162" height="40" rx="20" fill="#172730"/>
+  <text x="774" y="148" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="0" fill="#eef7fa">Work KapsL</text>
+  <text x="760" y="205" font-family="Inter, Arial, sans-serif" font-size="16" fill="#9fb4bd">Approved apps</text>
+  <rect x="760" y="238" width="64" height="64" rx="18" fill="#6aa8ff"/>
+  <rect x="846" y="238" width="64" height="64" rx="18" fill="#3ddc97"/>
+  <rect x="760" y="326" width="64" height="64" rx="18" fill="#ff8e85"/>
+  <rect x="846" y="326" width="64" height="64" rx="18" fill="#b89cff"/>
+  <path d="M783 272h18M792 263v18M869 272h18M878 263v18M783 360h18M792 351v18M869 360h18M878 351v18" stroke="#06151b" stroke-width="5" stroke-linecap="round"/>
+  <rect x="760" y="452" width="154" height="48" rx="24" fill="#80deea"/>
+  <text x="797" y="483" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="0" fill="#06151b">Focus on</text>
+  <text x="136" y="190" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="0" fill="#eef7fa">KapsL</text>
+  <text x="136" y="260" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="0" fill="#eef7fa">A minimalist Android launcher</text>
+  <text x="136" y="314" font-family="Inter, Arial, sans-serif" font-size="30" fill="#c7d4da">that turns your home screen into</text>
+  <text x="136" y="356" font-family="Inter, Arial, sans-serif" font-size="30" fill="#c7d4da">intentional focus capsules.</text>
+  <rect x="136" y="424" width="204" height="52" rx="26" fill="#80deea"/>
+  <text x="170" y="458" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="0" fill="#06151b">Focus Capsules</text>
 </svg>

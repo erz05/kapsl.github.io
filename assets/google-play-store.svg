@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 44" role="img" aria-labelledby="title desc">
+  <title id="title">Google Play</title>
+  <desc id="desc">Google Play Store logo.</desc>
+  <path d="M17.6 7.4c-.6.4-1 1.2-1 2.3v24.6c0 1 .4 1.8 1 2.3l13.7-14.7L17.6 7.4Z" fill="#34a853"/>
+  <path d="m36.6 16.4-5.3 5.6 5.3 5.6 7.3-4.2c2.1-1.2 2.1-2.8 0-4l-7.3-4.2Z" fill="#fbbc04"/>
+  <path d="M17.6 7.4 31.3 22l5.3-5.6L20.1 7c-1-.6-1.9-.5-2.5.4Z" fill="#4285f4"/>
+  <path d="M17.6 36.6c.6.9 1.5 1 2.5.4l16.5-9.4-5.3-5.6-13.7 14.6Z" fill="#ea4335"/>
+  <text x="58" y="18" fill="#eef7fa" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0">GET IT ON</text>
+  <text x="58" y="34" fill="#eef7fa" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850" letter-spacing="0">Google Play</text>
+</svg>
